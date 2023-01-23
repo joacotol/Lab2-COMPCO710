@@ -1,0 +1,40 @@
+/** HEADER/ TITLE **/
+html {
+    
+    scroll-behavior: smooth;
+}
+body {
+    font-family: Cambria, Arial, sans-serif;
+    background-color: #fff9f6;
+}
+
+h1 {
+    text-align: center;
+    background-color: #2e93ff;
+    color: #fff;
+}
+
+
+ul {
+    padding: 0;
+}
+ul li {
+    display: inline;
+    margin: 0 32px 0 0;
+}
+
+h2 {
+    background-color: #0078fa;
+    color: #fff;
+
+}
+
+/** Footer **/
+footer {
+    text-align: center;
+    background-color: #ffd8ae;
+}
+
+footer p, footer h3 {
+    margin: 0;
+}
